@@ -1,0 +1,7 @@
+#Fri Mar 24 14:29:58 CST 2017
+base.0=C\:\\Users\\djc\\Desktop\\sample\\VolleyTest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_438d58dd2e3169605ba2b4721f7fe06006901ad4
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\djc\\Desktop\\sample\\VolleyTest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\Volley_a79809eb31aada5e7201f6ed5d3ffb08259faad8\\classes.dex
+base.1=C\:\\Users\\djc\\Desktop\\sample\\VolleyTest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\Volley_a79809eb31aada5e7201f6ed5d3ffb08259faad8
+file.0=C\:\\Users\\djc\\Desktop\\sample\\VolleyTest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_438d58dd2e3169605ba2b4721f7fe06006901ad4\\classes.dex

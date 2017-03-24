@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\djc\Desktop\sample\VolleyTest\app\libs\Volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bcf22cc422752201bfe226cd69764d1133987a3b">
+        <dex dex="C:\Users\djc\Desktop\sample\VolleyTest\app\build\intermediates\pre-dexed\debug\Volley_a79809eb31aada5e7201f6ed5d3ffb08259faad8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\djc\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\djc\Desktop\sample\VolleyTest\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_438d58dd2e3169605ba2b4721f7fe06006901ad4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\djc\Desktop\sample\VolleyTest\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e2c7c753184f3a2aca9388df10137cb0cf79568">
+        <dex dex="C:\Users\djc\Desktop\sample\VolleyTest\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_fdf8eea39709c0fcc2acff3b579f56cfce2449ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\djc\Desktop\sample\VolleyTest\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\djc\Desktop\sample\VolleyTest\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_cb21da71a9d275ce25b96246f86bcc8511d7b029\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\djc\Desktop\sample\VolleyTest\app\libs\Volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bcf22cc422752201bfe226cd69764d1133987a3b">
+        <dex dex="C:\Users\djc\Desktop\sample\VolleyTest\app\build\intermediates\transforms\dex\debug\folders\1000\2\Volley_a79809eb31aada5e7201f6ed5d3ffb08259faad8\classes.dex" />
+    </item>
+
+</items>

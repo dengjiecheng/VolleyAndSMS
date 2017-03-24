@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\djc\\Desktop\\sample\\VolleyTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sendsms.xml",
+        "source": "C:\\Users\\djc\\Desktop\\sample\\VolleyTest\\app\\src\\main\\res\\layout\\activity_sendsms.xml"
+    },
+    {
+        "merged": "C:\\Users\\djc\\Desktop\\sample\\VolleyTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item.xml",
+        "source": "C:\\Users\\djc\\Desktop\\sample\\VolleyTest\\app\\src\\main\\res\\layout\\item.xml"
+    },
+    {
+        "merged": "C:\\Users\\djc\\Desktop\\sample\\VolleyTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\djc\\Desktop\\sample\\VolleyTest\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

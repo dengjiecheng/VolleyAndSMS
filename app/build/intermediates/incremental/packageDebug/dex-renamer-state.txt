@@ -1,0 +1,7 @@
+#Fri Mar 24 15:40:41 CST 2017
+base.0=C\:\\Users\\djc\\Desktop\\sample\\VolleyTest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_fdf8eea39709c0fcc2acff3b579f56cfce2449ef
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\djc\\Desktop\\sample\\VolleyTest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_cb21da71a9d275ce25b96246f86bcc8511d7b029\\classes.dex
+base.1=C\:\\Users\\djc\\Desktop\\sample\\VolleyTest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_cb21da71a9d275ce25b96246f86bcc8511d7b029
+file.0=C\:\\Users\\djc\\Desktop\\sample\\VolleyTest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_fdf8eea39709c0fcc2acff3b579f56cfce2449ef\\classes.dex
