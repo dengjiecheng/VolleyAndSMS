@@ -23,7 +23,7 @@ public class SMSBroadcastReceiver extends BroadcastReceiver {
             Object[] pdusObj = (Object[]) bundle.get("pdus");
             for (Object p : pdusObj) {
                 msg = SmsMessage.createFromPdu((byte[]) p);
-
+                msg.getUserData();
                 String msgTxt = msg.getMessageBody();//得到消息的内容
 
                 Date date = new Date(msg.getTimestampMillis());//时间
@@ -31,7 +31,7 @@ public class SMSBroadcastReceiver extends BroadcastReceiver {
                 String receiveTime = format.format(date);
 
                 String senderNumber = msg.getOriginatingAddress();
-
+//                msg.get
                 Toast.makeText(context, msgTxt, Toast.LENGTH_LONG).show();
                 Toast.makeText(context, "发送人：" + senderNumber + "  短信内容：" + msgTxt + "接受时间：" + receiveTime, Toast.LENGTH_LONG).show();
                 Intent startIntent = new Intent(context, HandleSmsService.class);
