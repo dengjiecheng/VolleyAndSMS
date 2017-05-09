@@ -18,12 +18,16 @@ public final class R {
         public static final int ic_launcher=0x7f020000;
     }
     public static final class id {
-        public static final int Content=0x7f080002;
-        public static final int Number=0x7f080001;
-        public static final int action_settings=0x7f080005;
-        public static final int btnSend=0x7f080003;
-        public static final int item=0x7f080004;
+        public static final int Content=0x7f080006;
+        public static final int Number=0x7f080005;
+        public static final int action_settings=0x7f080009;
+        public static final int btnSend=0x7f080007;
+        public static final int button=0x7f080003;
+        public static final int item=0x7f080008;
         public static final int listView=0x7f080000;
+        public static final int localPathEdit=0x7f080001;
+        public static final int localRunButton=0x7f080002;
+        public static final int outputView=0x7f080004;
     }
     public static final class layout {
         public static final int activity_main=0x7f030000;
@@ -42,8 +46,15 @@ public final class R {
     public static final class style {
         /**  API 11 theme customizations can go here. 
  API 14 theme customizations can go here. 
+
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        
          */
         public static final int AppBaseTheme=0x7f050000;
+        /**  All customizations that are NOT specific to a particular API-level can go here. 
+         */
         public static final int AppTheme=0x7f050001;
     }
 }

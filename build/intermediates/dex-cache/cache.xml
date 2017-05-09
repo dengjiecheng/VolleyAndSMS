@@ -12,6 +12,42 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\djc\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.7.0\6edbebdd8868708db718d15c09c4b28037fd487e\okhttp-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6edbebdd8868708db718d15c09c4b28037fd487e">
+        <dex dex="C:\Users\djc\Desktop\sample\VolleyTest\app\build\intermediates\pre-dexed\debug\okhttp-3.7.0_1c283f61c4cde6afa826bb5e80e5195a85778682.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\djc\Desktop\sample\VolleyTest\app\libs\ksoap2-android-assembly-2.5.4-jar-with-dependencies.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a7bad1621042e11ec47a295ab9aa9f904ece8078">
+        <dex dex="C:\Users\djc\Desktop\sample\VolleyTest\app\build\intermediates\pre-dexed\debug\ksoap2-android-assembly-2.5.4-jar-with-dependencies_6f807cdf91d75413c8ce28c40a1fe2833b5d1462.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\djc\Desktop\sample\VolleyTest\app\libs\json_simple-1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5e303a03d04e6788dddfa3655272580ae0fc13bb">
+        <dex dex="C:\Users\djc\Desktop\sample\VolleyTest\app\build\intermediates\pre-dexed\debug\json_simple-1.1_6989ade6dc8a362ab9588f8a85d4cabbcd177bc8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\djc\.android\build-cache\d7ca9181bf7ccd33ff8c139217f66f0ce59930a2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a156b99fc7cc034308f942906b09d32754a4470">
+        <dex dex="C:\Users\djc\Desktop\sample\VolleyTest\app\build\intermediates\pre-dexed\debug\classes_034268b869c71edb9df55980e2c95f905179379e.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\djc\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
         jumboMode="false"
         optimize="true"
@@ -20,31 +56,31 @@
         <dex dex="C:\Users\djc\Desktop\sample\VolleyTest\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_438d58dd2e3169605ba2b4721f7fe06006901ad4.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\djc\Desktop\sample\VolleyTest\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\djc\Desktop\sample\VolleyTest\app\libs\commons-lang3-3.0-beta.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="7e2c7c753184f3a2aca9388df10137cb0cf79568">
-        <dex dex="C:\Users\djc\Desktop\sample\VolleyTest\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_fdf8eea39709c0fcc2acff3b579f56cfce2449ef\classes.dex" />
+        sha1="c3e5478c615df58fe04f946d4167b7cbd286c203">
+        <dex dex="C:\Users\djc\Desktop\sample\VolleyTest\app\build\intermediates\pre-dexed\debug\commons-lang3-3.0-beta_00214d590a50b13407715f15134466ea1208ed16.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\djc\Desktop\sample\VolleyTest\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\djc\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.12.0\3742beff8024d0a0073d284b7c5e4cbf73d99b25\okio-1.12.0.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
-        <dex dex="C:\Users\djc\Desktop\sample\VolleyTest\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_cb21da71a9d275ce25b96246f86bcc8511d7b029\classes.dex" />
+        sha1="3742beff8024d0a0073d284b7c5e4cbf73d99b25">
+        <dex dex="C:\Users\djc\Desktop\sample\VolleyTest\app\build\intermediates\pre-dexed\debug\okio-1.12.0_4a1129eec40d9344213e1f9da4a373744a92b0fc.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\djc\Desktop\sample\VolleyTest\app\libs\Volley.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\djc\.gradle\caches\modules-2\files-2.1\org.jboss.netty\netty\3.2.10.Final\d9059f88c65784f3286643bc5325cdca968ee555\netty-3.2.10.Final.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="bcf22cc422752201bfe226cd69764d1133987a3b">
-        <dex dex="C:\Users\djc\Desktop\sample\VolleyTest\app\build\intermediates\transforms\dex\debug\folders\1000\2\Volley_a79809eb31aada5e7201f6ed5d3ffb08259faad8\classes.dex" />
+        sha1="d9059f88c65784f3286643bc5325cdca968ee555">
+        <dex dex="C:\Users\djc\Desktop\sample\VolleyTest\app\build\intermediates\pre-dexed\debug\netty-3.2.10.Final_27b8fdaca60bf6f2f33d79b35fb299242be46e85.jar" />
     </item>
 
 </items>

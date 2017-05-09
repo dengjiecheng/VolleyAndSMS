@@ -11,7 +11,14 @@
                     "endOffset": 108
                 },
                 "from": {
-                    "file": "C:\\Users\\djc\\Desktop\\sample\\VolleyTest\\app\\src\\main\\res\\values\\dimens.xml"
+                    "file": "C:\\Users\\djc\\Desktop\\sample\\VolleyTest\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
                 }
             },
             {
@@ -23,7 +30,14 @@
                     "endOffset": 164
                 },
                 "from": {
-                    "file": "C:\\Users\\djc\\Desktop\\sample\\VolleyTest\\app\\src\\main\\res\\values\\dimens.xml"
+                    "file": "C:\\Users\\djc\\Desktop\\sample\\VolleyTest\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
                 }
             },
             {
@@ -35,7 +49,14 @@
                     "endOffset": 217
                 },
                 "from": {
-                    "file": "C:\\Users\\djc\\Desktop\\sample\\VolleyTest\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\djc\\Desktop\\sample\\VolleyTest\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 108,
+                        "endColumn": 52,
+                        "endOffset": 156
+                    }
                 }
             },
             {
@@ -47,7 +68,14 @@
                     "endOffset": 265
                 },
                 "from": {
-                    "file": "C:\\Users\\djc\\Desktop\\sample\\VolleyTest\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\djc\\Desktop\\sample\\VolleyTest\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 47,
+                        "endOffset": 102
+                    }
                 }
             },
             {
@@ -59,7 +87,14 @@
                     "endOffset": 318
                 },
                 "from": {
-                    "file": "C:\\Users\\djc\\Desktop\\sample\\VolleyTest\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\djc\\Desktop\\sample\\VolleyTest\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 162,
+                        "endColumn": 52,
+                        "endOffset": 210
+                    }
                 }
             },
             {
@@ -86,25 +121,41 @@
                     "startLine": 8,
                     "startColumn": 4,
                     "startOffset": 380,
-                    "endLine": 10,
+                    "endLine": 14,
                     "endColumn": 12,
-                    "endOffset": 458
+                    "endOffset": 666
                 },
                 "from": {
-                    "file": "C:\\Users\\djc\\Desktop\\sample\\VolleyTest\\app\\src\\main\\res\\values\\styles.xml"
+                    "file": "C:\\Users\\djc\\Desktop\\sample\\VolleyTest\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
                 }
             },
             {
                 "to": {
-                    "startLine": 11,
+                    "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 463,
-                    "endLine": 13,
+                    "startOffset": 671,
+                    "endLine": 17,
                     "endColumn": 12,
-                    "endOffset": 530
+                    "endOffset": 826
                 },
                 "from": {
-                    "file": "C:\\Users\\djc\\Desktop\\sample\\VolleyTest\\app\\src\\main\\res\\values\\styles.xml"
+                    "file": "C:\\Users\\djc\\Desktop\\sample\\VolleyTest\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
                 }
             }
         ]

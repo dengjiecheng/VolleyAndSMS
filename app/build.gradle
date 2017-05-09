@@ -21,4 +21,10 @@ android {
 dependencies {
     compile 'com.android.support:support-v4:18.0.0'
     compile files('libs/Volley.jar')
+    compile files('libs/commons-lang3-3.0-beta.jar')
+    compile files('libs/json_simple-1.1.jar')
+    compile files('libs/ksoap2-android-assembly-2.5.4-jar-with-dependencies.jar')
+    compile 'org.jboss.netty:netty:3.2.10.Final'
+    compile 'com.orhanobut:logger:1.15'
+    compile 'com.squareup.okhttp3:okhttp:3.7.0'
 }

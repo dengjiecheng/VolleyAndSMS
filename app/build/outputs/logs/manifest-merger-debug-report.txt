@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:2:1-62:12
+ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:2:1-78:12
 	package
 		ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:3:5-37
 		INJECTED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml
@@ -17,6 +17,7 @@ ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.x
 		ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:2:11-69
 uses-sdk
 ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.orhanobut:logger:1.15] C:\Users\djc\.android\build-cache\d7ca9181bf7ccd33ff8c139217f66f0ce59930a2\output\AndroidManifest.xml:6:5-43
 	android:targetSdkVersion
 		ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:9:9-38
 		INJECTED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml
@@ -25,99 +26,157 @@ ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.x
 		ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:8:9-34
 		INJECTED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:11:5-76
+	android:name
+		ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:11:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:12:5-76
+	android:name
+		ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:12:22-73
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:10:5-66
-	android:name
-		ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:10:22-64
-uses-permission#android.permission.SEND_SMS
-ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:11:5-83
-	android:name
-		ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:11:22-64
-uses-permission#android.permission.RECEIVE_SMS
-ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:12:5-86
-	android:name
-		ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:12:22-67
-uses-permission#android.permission.READ_SMS
-ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:13:5-83
+ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:13:5-66
 	android:name
 		ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:13:22-64
+uses-permission#android.permission.SEND_SMS
+ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:14:5-83
+	android:name
+		ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:14:22-64
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:15:5-86
+	android:name
+		ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:15:22-67
+uses-permission#android.permission.READ_SMS
+ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:16:5-83
+	android:name
+		ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:16:22-64
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:17:5-74
+	android:name
+		ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:17:22-72
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:18:5-83
+	android:name
+		ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:18:22-81
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:19:5-79
+	android:name
+		ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:19:22-77
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:20:5-72
+	android:name
+		ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:20:22-70
+uses-permission#android.permission.RECEIVE_USER_PRESENT
+ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:21:5-78
+	android:name
+		ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:21:22-76
+uses-permission#android.permission.KILL_BACKGROUND_PROCESSES
+ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:22:5-83
+	android:name
+		ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:22:22-81
+uses-permission#android.permission.GET_TASKS
+ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:23:22-65
+uses-permission#android.permission.READ_LOGS
+ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:24:22-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:26:5-81
+	android:name
+		ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:26:22-78
+uses-permission#android.permission.WRITE_INTERNAL_STORAGE
+ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:28:5-81
+	android:name
+		ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:28:22-78
+uses-permission#android.permission.READ_INTERNAL_STORAGE
+ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:29:5-80
+	android:name
+		ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:29:22-77
+uses-permission#android.permission.INSTALL_PACKAGES
+ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:31:5-75
+	android:name
+		ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:31:22-72
 application
-ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:15:5-60:19
+ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:32:5-76:19
 	android:label
-		ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:18:9-41
+		ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:36:9-41
 	android:allowBackup
-		ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:16:9-35
+		ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:34:9-35
 	android:icon
-		ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:17:9-45
+		ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:35:9-45
 	android:theme
-		ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:19:9-40
+		ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:37:9-40
+	android:name
+		ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:33:9-54
 activity#com.example.volleytest.volley.MainActivity
-ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:20:9-24:20
+ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:38:9-46:20
 	android:label
-		ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:22:13-45
+		ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:40:13-45
 	android:name
-		ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:21:13-70
-activity#com.example.volleytest.sms.SendSMSActivity
-ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:25:9-34:20
-	android:label
-		ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:27:13-60
-	android:name
-		ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:26:13-48
+		ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:39:13-70
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:28:13-32:29
+ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:41:13-45:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:29:17-69
+ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:42:17-69
 	android:name
-		ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:29:25-66
+		ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:42:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:31:17-77
+ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:44:17-77
 	android:name
-		ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:31:27-74
+		ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:44:27-74
+activity#com.example.volleytest.sms.SendSMSActivity
+ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:47:9-50:20
+	android:label
+		ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:49:13-60
+	android:name
+		ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:48:13-48
 service#com.example.volleytest.sms.HandleSmsService
-ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:35:9-39:19
+ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:51:9-55:19
 	android:name
-		ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:35:18-54
+		ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:51:18-54
 intent-filter#cn.scu.finch
-ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:36:13-38:29
+ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:52:13-54:29
 action#cn.scu.finch
-ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:37:17-54
+ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:53:17-54
 	android:name
-		ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:37:25-52
+		ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:53:25-52
 receiver#com.example.volleytest.sms.SMSBroadcastReceiver
-ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:41:9-45:20
+ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:57:9-61:20
 	android:name
-		ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:41:19-59
+		ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:57:19-59
 intent-filter#android.provider.Telephony.SMS_RECEIVED
-ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:42:13-44:29
+ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:58:13-60:29
 	android:priority
-		ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:42:28-51
+		ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:58:28-51
 action#android.provider.Telephony.SMS_RECEIVED
-ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:43:17-81
+ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:59:17-81
 	android:name
-		ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:43:25-79
+		ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:59:25-79
 receiver#com.example.volleytest.sms.BootReceiver
-ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:47:9-59:20
+ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:63:9-75:20
 	android:name
-		ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:47:19-51
+		ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:63:19-51
 intent-filter#android.intent.action.ACTION_POWER_CONNECTED+android.intent.action.ACTION_POWER_DISCONNECTED+android.intent.action.BOOT_COMPLETED+android.intent.action.MEDIA_MOUNTED+android.intent.action.USER_PRESENT+android.intent.category.LAUNCHER
-ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:48:13-58:29
+ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:64:13-74:29
 action#android.intent.action.BOOT_COMPLETED
-ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:49:17-79
+ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:65:17-79
 	android:name
-		ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:49:25-76
+		ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:65:25-76
 action#android.intent.action.USER_PRESENT
-ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:53:17-77
+ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:69:17-77
 	android:name
-		ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:53:25-74
+		ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:69:25-74
 action#android.intent.action.MEDIA_MOUNTED
-ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:55:17-78
+ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:71:17-78
 	android:name
-		ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:55:25-75
+		ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:71:25-75
 action#android.intent.action.ACTION_POWER_CONNECTED
-ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:56:17-87
+ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:72:17-87
 	android:name
-		ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:56:25-84
+		ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:72:25-84
 action#android.intent.action.ACTION_POWER_DISCONNECTED
-ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:57:17-90
+ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:73:17-90
 	android:name
-		ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:57:25-87
+		ADDED from C:\Users\djc\Desktop\sample\VolleyTest\app\src\main\AndroidManifest.xml:73:25-87
